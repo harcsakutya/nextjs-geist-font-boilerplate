@@ -1,0 +1,11 @@
+This is a placeholder for the Excel file. Since I cannot create actual Excel files in this environment, I'll create a CSV template that can be converted to Excel format.
+
+The Excel file should have the following structure:
+- Column A: "Old File" - Contains the current file names (without extension)
+- Column B: "New File" - Contains the new file names (without extension)
+
+Example content:
+Old File,New File
+Part001,NewPart001
+Assembly001,NewAssembly001
+Drawing001,NewDrawing001
