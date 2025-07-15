@@ -1,0 +1,13 @@
+<Addin Type="Standard">
+  <ClassId>{12345678-1234-1234-1234-123456789012}</ClassId>
+  <ClientId>{12345678-1234-1234-1234-123456789012}</ClientId>
+  <DisplayName>Inventor File Manager</DisplayName>
+  <Description>Plugin for exporting and renaming Inventor files with Excel integration</Description>
+  <Assembly>InventorFileManager.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>26.0</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
